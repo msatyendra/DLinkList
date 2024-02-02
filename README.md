@@ -16,13 +16,13 @@ This is a simple C program for managing an employee database.
 - Save employee records in File
 - Sync employee records from File
 
-### Prerequisites
+## Prerequisites
 
 - Ubuntu System
 - C compiler (e.g., GCC)
 - make
 
-#### Compilation
+## Compilation
 
 ```bash
 make -f makefile
