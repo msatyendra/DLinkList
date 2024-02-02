@@ -26,7 +26,3 @@ This is a simple C program for managing an employee database.
 
 ```bash
 make -f makefile
-
-##### Execution
-```bash
-./a.out
